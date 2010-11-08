@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'MargitMac' target in the 'MargitMac' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
